@@ -8,7 +8,7 @@ The steps below will take you through cloning your own private fork, then compil
 
 If you'd prefer not to use Git, you can get the source with the 'Download ZIP' button on the right. The built-in Windows zip utility will mark the contents of zip files downloaded from the Internet as unsafe to execute, so right-click the zip file and select 'Properties...' and 'Unblock' before decompressing it. Third-party zip utilities don't normally do this.
 
-2. Make sure to install the "Extract.7z" file from releases, and extract to the main folder. Replace any files if it asks.
+2. Make sure to install the "Extract.7z" file from releases, and extract to the Engine folder. Replace any files if it asks.
 
 3. Install Visual Studio 2017. All desktop editions of Visual Studio 2017 can build UE4, including Visual Studio Community 2017, which is free for small teams and individual developers. To install the correct components for UE4 development, check the "Game Development with C++" workload, and the "Unreal Engine Installer" and "Nuget Package Manager" optional components. Also Make Sure to check "Windows 10 SDK (10.0.17134.0) in the optional tab.
 
